@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListViewWithRefresh</string>
+
+    <string name="title_text">The title in the ActionBar should be updated from the json data</string>
+    <string name="description_text">Each row should be dynamically sized to display its content, no clipping, no extraneous
+white-space etc. </string>
+</resources>

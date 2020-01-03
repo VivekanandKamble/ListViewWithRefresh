@@ -104,7 +104,6 @@ public class MainActivity extends AppCompatActivity
                     public void onErrorResponse(VolleyError error) {
                         System.out.println("Volley Error : " + error.getMessage());
                         ShowInformation();
-                        // Toast.makeText(AllProductDisplayActivity.this, error.getMessage(), Toast.LENGTH_LONG).show();
                     }
                 });
 
